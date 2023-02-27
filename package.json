@@ -1,0 +1,14 @@
+{
+  "name": "codesignal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Jonatan Garbuyo",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "jest": "29.4.3"
+  }
+}
